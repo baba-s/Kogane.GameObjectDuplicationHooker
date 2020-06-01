@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
 
-namespace UniGameObjectDuplicationHooker
+namespace Kogane.Internal
 {
 	/// <summary>
 	/// 独自のゲームオブジェクト複製機能の Preferences における設定画面を管理するクラス

@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace UniGameObjectDuplicationHooker
+namespace Kogane.Internal
 {
 	/// <summary>
 	/// 独自のゲームオブジェクト複製機能の設定を管理するクラス

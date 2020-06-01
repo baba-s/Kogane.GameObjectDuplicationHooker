@@ -6,7 +6,7 @@ using UnityEditor;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace UniGameObjectDuplicationHooker
+namespace Kogane.Internal
 {
 	/// <summary>
 	/// ゲームオブジェクトの複製時に名前の末尾に数値を付けず、かつ transform のプロパティに誤差が生じないようにするエディタ拡張
