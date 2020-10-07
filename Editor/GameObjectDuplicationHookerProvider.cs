@@ -46,7 +46,7 @@ namespace Kogane.Internal
 		[SettingsProvider]
 		private static SettingsProvider Create()
 		{
-			var path     = "Preferences/UniGameObjectDuplicationHooker";
+			var path     = "Kogane/UniGameObjectDuplicationHooker";
 			var provider = new GameObjectDuplicationHookerProvider( path, SettingsScope.User );
 
 			return provider;
