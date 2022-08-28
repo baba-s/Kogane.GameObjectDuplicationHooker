@@ -14,7 +14,7 @@
 
 ![image (14)](https://user-images.githubusercontent.com/61863367/81248830-393c5b00-9058-11ea-97d4-cd6f367a5e14.gif)
 
-### UniGameObjectDuplicationHooker
+### Kogane Game Object Duplication Hooker
 
 ![image (13)](https://user-images.githubusercontent.com/61863367/81248837-3b9eb500-9058-11ea-909a-c92f2d94d1ab.gif)
 
@@ -22,11 +22,11 @@
 
 ## 設定
 
-![2020-05-07_185524](https://user-images.githubusercontent.com/61863367/81281094-5db62880-9094-11ea-8633-0ba6ed0a34e5.png)
+![2022-08-28_144729](https://user-images.githubusercontent.com/6134875/187059642-04beccb3-ba3a-408f-b297-1497719a92f4.png)
 
-Preferences から設定を変更できます
+Project Settings から設定を変更できます
 
 |項目|内容|
 |:--|:--|
-|Enabled|機能を有効化します（デフォルトは OFF）|
-|Enabled Serial Number|複製時に名前の末尾の数字をインクリメントします（デフォルトは ON）|
+|Is Enable|機能を有効化します（デフォルトは OFF）|
+|Is Enable Serial Number|複製時に名前の末尾の数字をインクリメントします（デフォルトは ON）|
