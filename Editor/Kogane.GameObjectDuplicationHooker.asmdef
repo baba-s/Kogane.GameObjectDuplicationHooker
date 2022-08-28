@@ -1,5 +1,5 @@
 {
-    "name": "UniGameObjectDuplicationHooker",
+    "name": "Kogane.GameObjectDuplicationHooker",
     "references": [],
     "includePlatforms": [
         "Editor"
