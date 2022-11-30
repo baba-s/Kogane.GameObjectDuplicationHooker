@@ -6,7 +6,7 @@ namespace Kogane.Internal
     /// <summary>
     /// 独自のゲームオブジェクト複製機能の設定を管理するクラス
     /// </summary>
-    [FilePath( "UserSettings/Kogane/GameObjectDuplicationHooker.asset", FilePathAttribute.Location.ProjectFolder )]
+    [FilePath( "UserSettings/Kogane/GameObjectDuplicationHookerSetting.asset", FilePathAttribute.Location.ProjectFolder )]
     internal sealed class GameObjectDuplicationHookerSetting : ScriptableSingleton<GameObjectDuplicationHookerSetting>
     {
         //================================================================================
